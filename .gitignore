@@ -1,0 +1,15 @@
+# Go-related
+/bin/
+/build/
+/dist/
+*.exe
+*.test
+*.out
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Modules
+vendor/
